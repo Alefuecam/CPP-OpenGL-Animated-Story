@@ -6,7 +6,7 @@ The project uses geometric shapes to tell a short story through programmed movem
 
 ## Animation Demo
 
-**[Watch the animation](demo/VideoProyecto1.mp4)**
+**[Watch the animation](VideoProyecto1.mp4)**
 
 The demonstration shows the original project's execution.
 
@@ -71,9 +71,9 @@ Objects are represented using geometric primitives, with vertex attributes defin
 
 ## Project Structure
 
-- `main.cpp` — Original C++ animation implementation.
-- `demo/VideoProyecto1.mp4` — Video demonstration.
-- `shaders/` — External shader files, if recovered.
+- `Animacion_Tiempo_glfw.cpp` — Original C++ animation implementation.
+- `VideoProyecto1.mp4` — Video demonstration.
+  
 
 ## Running the Project
 
